@@ -70,5 +70,5 @@ REFERÊNCIAS
 
 3- TABLEAU. O que é o Tableau? 2021. Disponível em: https://www.tableau.com/pt-br/why-tableau/what-is-tableau. Acesso em 23 de maio de 2021.
 
-4- LINK DASHBOARD DEPUTADOS. Disponível em: [https://public.tableau.com/profile/diogo.kabbaz#!/vizhome/ProjetoCECDA2019_2/StoryDeputados-GastosePerfil](https://public.tableau.com/views/ProjetodeconclusoADS-DashBoarddeGastosParlamentardeDeputados/StoryDeputados-GastosePerfil?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+4- LINK DASHBOARD DEPUTADOS. Disponível em: https://public.tableau.com/app/profile/diego.carvalho2686/viz/ProjetodeconclusoADS-DashBoarddeGastosParlamentardeDeputados/StoryDeputados-GastosePerfil#1)
 
