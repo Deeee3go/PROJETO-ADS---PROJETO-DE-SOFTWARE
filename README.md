@@ -65,7 +65,10 @@ Além disso, a criação de um modelo de aprendizado de máquina para identifica
 REFERÊNCIAS
 
 1- DADOS ABERTOS DA CÂMARA DOS DEPUTADOS. Disponível em: https://dadosabertos.camara.leg.br/swagger/api.html. Acesso em 16 de fev. de 2021. 
+
 2- KIMBALL, R.; CASERTA, J. The Data Warehouse ETL Toolkit – Practical Techniques for Extracting, Cleaning, Conforming, and Delivering Data. Indianápolis. Wiley Publishing, Inc., 2004. 490p.
+
 3- TABLEAU. O que é o Tableau? 2021. Disponível em: https://www.tableau.com/pt-br/why-tableau/what-is-tableau. Acesso em 23 de maio de 2021.
+
 4- LINK DASHBOARD DEPUTADOS. Disponível em: [https://public.tableau.com/profile/diogo.kabbaz#!/vizhome/ProjetoCECDA2019_2/StoryDeputados-GastosePerfil](https://public.tableau.com/views/ProjetodeconclusoADS-DashBoarddeGastosParlamentardeDeputados/StoryDeputados-GastosePerfil?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
