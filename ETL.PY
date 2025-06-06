@@ -86,7 +86,7 @@ total.describe()
 total.nomeFornecedor.value_counts()
 
 # %% [markdown]
-# ###EXTRAÇÃO
+# ###CARGA
 
 # %%
 from sqlalchemy import create_engine
@@ -101,8 +101,7 @@ deputados.to_sql('deputados',engine)
 # %%
 total.to_sql('despesas_total', engine)
 
-# %% [markdown]
-# ###ANÁLISE
+
 
 # %%
 total = pd.read_sql("select * from despesas_total;", engine)
